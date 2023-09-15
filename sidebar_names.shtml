@@ -1,0 +1,30 @@
+<div class="mini-posts">
+    <article>
+        <a href="kanatli_hayvan_yetistiriciligi.html" target="_blank" class="image"><img src="images/chicken4k.jpg" alt="" /></a>
+        <h3>Kanatli hayvan yetistiriciligi</h3>
+    </article>								
+    <article>
+        <a href="kanatli_hayvan_et_üreticiligi.html" target="_blank" class="image"><img src="images/chicken_meat4k.jpg" alt="" /></a>
+        <h3>Beyaz et üreticiligi</h3>
+    </article>
+    <article>
+        <a href="yumurta_üreticiligi.html" target="_blank" class="image"><img src="images/egg.jpg" alt="" /></a>
+        <h3>Yumurta üreticiligi</h3>
+    </article>
+    <article>
+        <a href="buyukbas_hayvan_yetistiriciligi.html" target="_blank" class="image"><img src="images/cow_field.jpg" alt="" /></a>
+        <h3>Büyükbas hayvan yetistiriciligi</h3>
+    </article>
+    <article>
+        <a href="sut.html" target="_blank" class="image"><img src="images/milk.jpg" alt="" /></a>
+        <h3>Süt üreticiligi</h3>
+    </article>
+    <article>
+        <a href="meat.html" target="_blank" class="image"><img src="images/meat.jpg" alt="" /></a>
+        <h3>Kirmizi et üreticiligi</h3>
+    </article>
+    <article>
+        <a href="fish.html" target="_blank" class="image"><img src="images/fish.jpg" alt="" /></a>
+        <h3>Balik üreticiligi</h3>
+    </article>
+</div>
